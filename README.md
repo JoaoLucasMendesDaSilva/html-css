@@ -6,6 +6,5 @@ Estou aprendendo  criar sites e agora vou gerenciar meus repositórios!
 
 <a href="https://joaolucasmendesdasilva.github.io/projeto-android/">Ir para o meu primeiro mini projeto!</a>
 
-Ou caso você deseja escanear um QRCODE, basta usar este abaixo!
+<a href="https://joaolucasmendesdasilva.github.io/projeto-cordel/">Ir para o meu segundo mini projeto!</a>
 
-<img src="qrcode.png" alt="Imagem QRCODE">
